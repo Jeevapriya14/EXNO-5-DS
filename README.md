@@ -245,4 +245,4 @@ plt.legend()
 
 
 # Result:
- Include your result here
+ Thus, The implementation of data visualisation using matplotlib has been successfully verified!
